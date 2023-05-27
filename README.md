@@ -10,7 +10,7 @@ Main features
   - Meowpedia: The information of a cat base on breeds.
   - Map
   - Profile
-  - 
+
 API
   - The Cat API - Cats as a Service. (https://thecatapi.com/)
   - google map search. (rapidapi/No longer working.)
